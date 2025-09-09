@@ -3,9 +3,8 @@
 This project is a User Registration Form built with HTML5, designed to collect personal, contact, preferences, and feedback information from users. It follows semantic HTML5 standards and best practices for accessibility.
 
 
----
 
-⚙ Features
+### Features
 
 The form includes:
 
@@ -20,7 +19,7 @@ Gender selection (Male / Female)
 Profile Photo upload
 
 
-# Contact & Address Information
+### Contact & Address Information
 
 Email Address
 
@@ -73,7 +72,7 @@ Privacy Policy agreement
 
 
 
-## Technologies Used
+### Technologies Used
 
 HTML5 for semantic structure
 
